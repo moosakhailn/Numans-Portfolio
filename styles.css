@@ -1,0 +1,200 @@
+
+.top-container{
+
+background-color: #D1E9EA;
+position: relative;
+padding-top: 100px;
+
+}
+
+body {
+
+   color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    background-color: #D1E9EA;
+}
+h1{
+
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Lobster Two', cursive;
+    color: #66BFBF;
+
+}
+
+h2 {
+
+    font-family: 'Lobster Two', cursive;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+
+}
+
+h3 {
+
+    color: #11999E;
+    font-family: 'Lobster Two', cursive;
+
+}
+
+.middle-container{
+
+margin: 100px 0px;
+
+
+    }
+
+    .bottom-container{
+
+        background-color: #66BFBF;
+        padding: 50px 0 20px;
+
+        }
+        
+.nu1 {
+
+font-style: italic;
+
+}
+
+span {
+
+    text-decoration: underline;
+
+}
+
+.bottom-cloud {
+
+position: absolute;
+left: 250px;
+bottom: 300px;
+
+}
+
+.top-cloud {
+
+position: absolute;
+right: 300px;
+top: 40px;
+
+}
+
+
+.my-skills {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+    
+
+}
+
+.profile-pic {
+
+border-radius: 200px #97DEFF 6px;
+
+}
+
+hr {
+border: dotted #97DEFF 6px;
+border-bottom: none;
+width: 4%;
+
+}
+
+
+.computer{
+
+width: 25%;
+float: right;
+padding-left: 30px;
+
+}
+
+.basketball {
+
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+
+}
+
+.skill-row {
+
+width: 50%;
+text-align: center;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.intro {
+
+width: 30%;
+margin: auto;
+
+}
+p {
+
+    line-height: 2;
+
+}
+
+.con-mess {
+
+width: 40%;
+margin: 40px auto 60px;
+
+}
+
+.btn {
+    background: #C9EEFF;
+    background-image: -webkit-linear-gradient(top, #C9EEFF, #2980b9);
+    background-image: -moz-linear-gradient(top, #C9EEFF, #2980b9);
+    background-image: -ms-linear-gradient(top, #C9EEFF, #2980b9);
+    background-image: -o-linear-gradient(top, #C9EEFF, #2980b9);
+    background-image: linear-gradient(to bottom, #C9EEFF, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Lobster Two', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #B4E4FF;
+    background-image: -webkit-linear-gradient(top, #B4E4FF, #BAD7E9);
+    background-image: -moz-linear-gradient(top, #B4E4FF, #BAD7E9);
+    background-image: -ms-linear-gradient(top, #B4E4FF, #BAD7E9);
+    background-image: -o-linear-gradient(top, #B4E4FF, #BAD7E9);
+    background-image: linear-gradient(to bottom, #B4E4FF, #BAD7E9);
+    text-decoration: none;
+  }
+
+  a {
+
+color: #11999E;
+font-family: 'Lobster Two', cursive;
+margin: 10px 20px;
+text-decoration: none;
+
+  }
+
+  a:hover {
+
+color: #eaf6f6;
+
+  }
+
+  .copyright {
+
+color: #eaf6f6;
+font-size: 0.75rem;
+padding: 20px 0px;
+
+  }
